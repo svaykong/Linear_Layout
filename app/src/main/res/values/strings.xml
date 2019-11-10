@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="header_name1">8 Simple Ways to </string>
+    <string name="header_name2">Study More Effectively</string>
+    <string name="text_way1">No Phone</string>
+    <string name="text_way1_desc">A smart phone.</string>
+    <string name="text_way2">Plan</string>
+    <string name="text_way2_desc">A plan.</string>
+    <string name="text_way3">Prioritise</string>
+    <string name="text_way3_desc">A prioritise.</string>
+    <string name="text_way4">Wake Up Earlier</string>
+    <string name="text_way4_desc">Wake up earlier.</string>
+    <string name="text_way5">Hardest Task First</string>
+    <string name="text_way5_desc">Hardest Task First.</string>
+    <string name="text_way6">40 min study sessions</string>
+    <string name="text_way6_desc">40 mn study sessions.</string>
+    <string name="text_way8">Reward Yourself</string>
+    <string name="text_way7">Look After Yourself</string>
+    <string name="the_end">the end</string>
+</resources>
